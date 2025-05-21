@@ -1,0 +1,6 @@
+question,A,B,C,D,answer
+What is the output of print(2**3)?,6,8,9,5,B
+Which of the following is used to define a function in Python?,func,def,define,function,B
+What is the correct file extension for Python files?,.pt,.pyt,.py,.pyth,C
+What is 5 // 2?,2.5,2,3,5,B
+What type is 3.14?,int,float,string,bool,B
